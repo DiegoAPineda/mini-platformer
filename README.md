@@ -1,4 +1,4 @@
-# mini-platformer
-# My Platformer!
+# Pirate's Loot 2
+# Kraken's revenge
 
-**Welcome to my mini platformer, an experiment of mine with PyGame!**
+**Welcome to my little platformer, made possible with the help of PyGame!**
